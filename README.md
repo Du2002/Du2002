@@ -8,12 +8,12 @@
 <div align="right">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-###
+ 
 
 <p align="left">📚 I’m currently learning Full Stack Development NextJs, ReactJS, MongoDB,Node JS and Express JS<br>💬 Ask me about  web development, App development, or anything tech-related!<br>🎲 Fun fact: I'am inetersted in Cloud Computing<br>📫 How to reach me karandeni28dewage@gmail.com</p>
 
 ###
-<h3 align="left">Connect with me:</h3>
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://linkedin.com/in/nidula jayawardhana](http://linkedin.com/in/chamathya-sepiyumi-387047378)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamathya" height="30" width="40" /></a>
